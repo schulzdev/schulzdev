@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max from [SchulzDEV](https://www.tiktok.com/@schulzdev)!
+- 👋 Hi, I’m Max!
 - 📚 I am a Student at a College in Germany
 - 🌱 I’m currently learning the complete Web Development package, including Javascript, CSS (and HTML)
 - 🤟🏼 I have mastered Python a few months ago with the #100daysofcode Udemy Course by Angela Yu
